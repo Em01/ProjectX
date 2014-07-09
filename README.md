@@ -7,9 +7,8 @@
 ![Unipop on an iPhone](public/readme_images/iPhoneTemplate.jpg)
 ![Unipop in an Apple workplace](public/readme_images/WorkspaceTemplate.jpg)
 
-  Unipop is a website and mobile app that enables students to buy and sell things in a speedy and trusting environment. Unipop connects you only to the students with your university. It was created for our final project at Makers Academy.
+  Unipop is a website and mobile app that enables students to buy and sell things in a speedy and trusting environment. Optimized for iPhones Unipop connects you only to the students with your university. It was created for our final project at Makers Academy.
 
-  Unipop is optimized for iPhones. 
 
 Table of Contents
 ===
