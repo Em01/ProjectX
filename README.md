@@ -20,12 +20,6 @@ Table of Contents
 * [Learning objectives]
 * [Meet the team!]
 
-How to use unipop
-===
-**... as a normal person**
-
-**... as a developer**
-
 Key Features
 ===
 There are several core features that make up the backbone of unipop. These features are unipop's cannot-do-without's.
