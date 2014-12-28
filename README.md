@@ -43,7 +43,6 @@ Queue management
 'Pops' page
 ---
 
-
 Design Principles
 ===
 
